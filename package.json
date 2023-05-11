@@ -1,0 +1,14 @@
+{
+  "name": "netlify-google-spreadsheet-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "swyx <dont@email.me>",
+  "license": "MIT",
+  "scripts": {
+    "foo": "echo you can write a script here"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.3"
+  }
+}
